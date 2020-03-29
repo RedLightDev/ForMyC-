@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{D2964C67-0E5A-45CB-AE40-F18957862BDF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BS_Start/Models/WeatherForecast.cs">
+    <Files>
+      <File FileName="BS_Start/Startup.cs" Line="65" Column="18" />
+      <File FileName="BS_Start/Program.cs" />
+      <File FileName="BS_Start/Properties/launchSettings.json" />
+      <File FileName="BS_Start/Controllers/WeatherForecastController.cs" Line="34" Column="19" />
+      <File FileName="BS_Start/Models/TblOrganizations.cs" />
+      <File FileName="BS_Start/Models/BaseModel.cs" />
+      <File FileName="BS_Start/Contexts/TOSContext.cs" />
+      <File FileName="BS_Start/appsettings.json" />
+      <File FileName="BS_Start/.DS_Store" />
+      <File FileName="BS_Start/Domains/WeatherForecastDomain.cs" Line="14" Column="33" />
+      <File FileName="BS_Start/WeatherForecastRepository.cs" Line="9" Column="19" />
+      <File FileName="BS_Start/Models/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BS_Start" expanded="True">
+            <Node name="BS_Start" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domains" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="WeatherForecast.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="swagger" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BS__Start PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

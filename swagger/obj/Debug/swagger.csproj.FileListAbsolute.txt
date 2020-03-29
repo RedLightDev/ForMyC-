@@ -1,0 +1,2 @@
+/Users/kaiser/Projects/BS_Start/swagger/obj/Debug/swagger.csprojAssemblyReference.cache
+/Users/kaiser/Projects/BS_Start/swagger/obj/Debug/swagger.exe.config
